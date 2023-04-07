@@ -48,7 +48,7 @@
       img.onerror = function() {
         console.error("Error loading image.");
       };
-      img.src = "ss.png";
+      img.src = "CamScanner 04-07-2023 12.39.jpg";
     }
 
     window.addEventListener("load", function() {
